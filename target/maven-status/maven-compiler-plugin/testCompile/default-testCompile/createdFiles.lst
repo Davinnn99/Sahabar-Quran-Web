@@ -1,0 +1,9 @@
+com\sahabatquran\app\web\TestcontainersConfiguration.class
+com\sahabatquran\app\web\selenium\pages\LoginPage.class
+com\sahabatquran\app\web\selenium\BaseSeleniumTests$1.class
+com\sahabatquran\app\web\selenium\RegisterPageTests.class
+com\sahabatquran\app\web\selenium\HomePageTests.class
+com\sahabatquran\app\web\selenium\pages\RegisterPage.class
+com\sahabatquran\app\web\selenium\pages\HomePage.class
+com\sahabatquran\app\web\selenium\LoginPageTests.class
+com\sahabatquran\app\web\selenium\BaseSeleniumTests.class
